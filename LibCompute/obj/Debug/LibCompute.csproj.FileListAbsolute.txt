@@ -1,0 +1,7 @@
+C:\Users\Seb\source\repos\AOC\LibCompute\bin\Debug\RevDeBug.setup
+C:\Users\Seb\source\repos\AOC\LibCompute\bin\Debug\LibCompute.dll
+C:\Users\Seb\source\repos\AOC\LibCompute\bin\Debug\LibCompute.pdb
+C:\Users\Seb\source\repos\AOC\LibCompute\obj\Debug\LibCompute.dll
+C:\Users\Seb\source\repos\AOC\LibCompute\obj\Debug\LibCompute.pdb
+C:\Users\Seb\source\repos\AOC\LibCompute\obj\Debug\RdbLog.txt
+C:\Users\Seb\source\repos\AOC\LibCompute\obj\Debug\LibCompute.csprojAssemblyReference.cache
